@@ -25,12 +25,12 @@ This project showcases a Tableau dashboard that visualizes global market perform
 
 ## 📸 Dashboard Preview
 
-<img width="800" height="451" alt="Global_Market_Performance_Dashboard" src="https://github.com/user-attachments/assets/d806e848-5a2c-41a3-bbd8-2951767fdd45" />
+<img width="1627" height="916" alt="Global_Market_Performance_Dashboard" src="https://github.com/user-attachments/assets/538bec52-b4e8-42a9-8ccf-0dc0c7584186" />
 
 ## 📁 Files Included
 
 * Global_Market_Performance_Dashboard.twbx
-* Global_Market_Performance_Dashboard.jpg
+* Global_Market_Performance_Dashboard.png
 
 ## 🚀 Learnings
 
